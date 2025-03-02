@@ -1,1 +1,1 @@
-# passwordgenerator
+This Python Password Generator creates strong passwords using a mix of uppercase, lowercase, numbers, and symbols. It takes user input for the desired length and generates a random password using the random and string modules. The program ensures security by selecting characters randomly, making it ideal for generating secure passwords.

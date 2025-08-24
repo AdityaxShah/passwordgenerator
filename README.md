@@ -1,1 +1,1 @@
-Update #2 to README.md in passwordgenerator
+Update #3 to README.md in passwordgenerator
